@@ -11,11 +11,17 @@ The dataset is a CSV file with 6,362,620 rows and 10 columns.
 
 Project Pipeline
   Prepare Data
+  
   Handle Imbalanced Data
+  
   Split Data
+  
   Model Selection
+  
   Train the Model
+  
   Evaluate the Model
+  
 
 Performance Metrics
 Precision: Measures the accuracy of fraud predictions.
