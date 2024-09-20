@@ -1,4 +1,4 @@
-##Fraud Detection using Deep Learning
+#Fraud Detection using Deep Learning
 
 The goal of this project is to predict whether a transaction is fraudulent based on its features.
 
