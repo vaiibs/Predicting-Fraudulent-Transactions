@@ -10,6 +10,7 @@ Dataset
 The dataset is a CSV file with 6,362,620 rows and 10 columns.
 
 Project Pipeline
+
       Prepare Data
       
       Handle Imbalanced Data
