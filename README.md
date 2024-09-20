@@ -32,3 +32,5 @@ Performance Metrics
       
       F1-Score: Harmonic mean of precision and recall, representing the balance between them.
 
+Result
+
