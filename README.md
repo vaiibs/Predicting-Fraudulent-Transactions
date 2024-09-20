@@ -25,7 +25,10 @@ Project Pipeline
   
 
 Performance Metrics
-Precision: Measures the accuracy of fraud predictions.
-Recall: Measures how many actual frauds were correctly identified.
-F1-Score: Harmonic mean of precision and recall, representing the balance between them.
+
+      Precision: Measures the accuracy of fraud predictions.
+      
+      Recall: Measures how many actual frauds were correctly identified.
+      
+      F1-Score: Harmonic mean of precision and recall, representing the balance between them.
 
