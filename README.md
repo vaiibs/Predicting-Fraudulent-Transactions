@@ -34,3 +34,11 @@ Performance Metrics
 
 Result
 
+                    precision    recall  f1-score   support
+      
+                 0       0.99      0.99      0.99   1906323
+                 1       0.99      0.99      0.99   1906322
+      
+          accuracy                           0.99   3812645
+         macro avg       0.99      0.99      0.99   3812645
+      weighted avg       0.99      0.99      0.99   3812645
